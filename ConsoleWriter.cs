@@ -14,7 +14,7 @@ public class ConsoleWriter : GeomWriter
 
         foreach (string geom in strGeoms)
         {
-            Console.WriteLine(geom);
+            Console.Error.WriteLine(geom);
         }
     }
 }

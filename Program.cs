@@ -49,7 +49,7 @@ public static class Program
         }
         else if (parameters.Mode == RunType.FILE)
         {
-            return new FileWriter(parameters);
+            return new FileWriter_new(parameters);
         }
         else
         {

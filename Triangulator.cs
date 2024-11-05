@@ -4,7 +4,7 @@ namespace EarClip;
 
 public static class Triangulator
 {
-    public static List<Triangle> Triangulate(List<Coordinate> coordinates)
+   /* public static List<Triangle> Triangulate(List<Coordinate> coordinates)
     {
         
         var triangles = new List<Triangle>();
@@ -17,5 +17,5 @@ public static class Triangulator
 
             return triangles;
 
-    }
+    }*/
 }

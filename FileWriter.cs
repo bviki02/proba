@@ -1,8 +1,8 @@
 namespace EarClip;
 
-public class FileWriter : GeomWriter
+public class FileWriter_new : GeomWriter
 {
-    public FileWriter(ProgramParameters programParameters) : base(programParameters) { }
+    public FileWriter_new(ProgramParameters programParameters) : base(programParameters) { }
 
     public override void WriteGeometry(List<Geometry.Geometry> geometries)
     {
