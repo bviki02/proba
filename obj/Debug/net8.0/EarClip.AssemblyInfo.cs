@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EarClip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91365729f8779955f2cef9e0a8b9a1095e893433")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e6d5a76d9c88da3bf8d4ca26ebb63867c33a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("EarClip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EarClip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
